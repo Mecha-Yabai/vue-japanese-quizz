@@ -1,5 +1,5 @@
 <template>
-    <div class="min-h-screen bg-slate-800 text-white text-center">
+    <div>
         <header class="p-6 mb-8">
             <h1 class="text-2xl font-bold uppercase">Hiragana Quiz</h1>
             <div>

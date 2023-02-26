@@ -1,7 +1,7 @@
 <template>
-    <HiraganaQuiz />
+    <Home />
 </template>
 
 <script setup>
-import HiraganaQuiz from "./components/HiraganaQuiz.vue";
+import Home from "@/components/Home.vue";
 </script>

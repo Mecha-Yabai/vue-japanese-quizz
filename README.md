@@ -8,4 +8,4 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 ---
 
-Based on [Tyler Potts' youtube tutorial](https://youtu.be/fM3qHaQrRHU) _Build your own japanese learning app using React JS_
+Inspired by [Tyler Potts' youtube tutorial](https://youtu.be/fM3qHaQrRHU) _Build your own japanese learning app using React JS_
